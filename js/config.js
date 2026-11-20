@@ -23,6 +23,6 @@
    ========================================================================== */
 
 window.TIENDA_CONFIG = {
-  GA_MEASUREMENT_ID: G-9B5SDFLNJP, // <-- Pega aquí tu ID de medición
+  GA_MEASUREMENT_ID: "G-9B5SDFLNJP", // <-- Pega aquí tu ID de medición
   DEBUG_MODE: true                   // <-- true durante el laboratorio
 };
